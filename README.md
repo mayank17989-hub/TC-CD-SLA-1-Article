@@ -1,6 +1,6 @@
 # TC-CD-SLA-1-Article
-Self learning article on the topic "LEX and YACC: Tools for Lexical and Syntax Analysis"
-Regular Expressions in Modern Compilers and Programming Languages
+Self learning article on the topic "Regular Expressions in Modern Compilers and Programming Languages"
+
 1. Introduction
 
 In computer science, pattern recognition and text manipulation are core activities that drive numerous applications — from search engines to programming language design. Regular Expressions (regex) are one of the most powerful tools developed to handle these tasks efficiently. Rooted in automata theory and formal languages, regular expressions allow programmers to describe, identify, and manipulate patterns within strings of text. They play an essential role in lexical analysis, compiler design, and various domains such as data validation, information retrieval, and network security.
